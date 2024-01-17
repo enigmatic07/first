@@ -1,7 +1,3 @@
-Certainly! Congratulations on creating your first GitHub repository! Here's a sample README text that you can use to describe your Amazon website clone project:
-
----
-
 # Amazon Website Clone
 
 ![Project Logo](link/to/your/logo.png)
